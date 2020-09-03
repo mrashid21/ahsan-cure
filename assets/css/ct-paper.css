@@ -76,6 +76,10 @@ blockquote small {
 .text-muted {
   color: #DDDDDD; }
 
+.text-bright {
+  color: #FFFFFF;
+}
+
 .text-primary, .text-primary:hover {
   color: #427C89 !important; }
 

@@ -1,1 +1,1 @@
-# ahsan-cure
+# ahsan-cure static website
